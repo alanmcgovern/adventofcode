@@ -3,6 +3,7 @@
   <Project Path="../Day05/Day05.csproj" Id="429009d3-f740-4475-b11d-18311a7ce788" />
   <Project Path="../Day06/Day06.csproj" Id="e47967e1-49f9-4ddf-a727-2c7dc7446824" />
   <Project Path="../Day07/Day07.csproj" Id="a5a171fd-77ee-4607-b047-633383cc500f" />
+  <Project Path="../Day09/Day09.csproj" Id="52fc62d9-0ec8-4744-ad58-9f2860c7dea0" />
   <Project Path="../Day2/Day02.csproj" />
   <Project Path="../Day3/Day03.csproj" Id="0768d863-cd29-4e13-88db-e3367a4b227a" />
   <Project Path="Day01.csproj" />
